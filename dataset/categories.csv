@@ -1,3 +1,10 @@
+ カラム             , 型       , 内容     
+  ,  , 
+category_id, VARCHAR, カテゴリID
+category_name, VARCHAR, カテゴリ名
+parent_category, VARCHAR, 上位カテゴリ
+
+
 CAT01 , Fiction
 CAT02 , Business
 CAT03 , Technology

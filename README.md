@@ -112,7 +112,7 @@ Cross-border  Anime/Manga   RFM
   Sales       Growth Trend  Analysis
       └─────────┼─────────┘
                 ↓
--        ビジネス上の示唆を整理
+        ビジネス上の示唆を整理
 
 
 ---

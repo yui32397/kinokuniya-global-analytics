@@ -1,5 +1,5 @@
- カラム            , 型       , 内容                         
- ,  ,   , 
+ カラム         , 型       , 内容                         
+ ,  ,   
 campaign_id, VARCHAR, キャンペーンID
 campaign_name, VARCHAR, キャンペーン名
 start_date, DATE, 開始日

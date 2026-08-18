@@ -1,5 +1,5 @@
  カラム                 , 型       , 内容
-　,  , , 
+　 ,  ,
 customer_id, VARCHAR, 顧客ID
 country, VARCHAR, JP / US
 signup_date, DATE, 会員登録日

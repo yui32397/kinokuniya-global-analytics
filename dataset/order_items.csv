@@ -1,1 +1,6 @@
-　
+order_id,customer_id,order_date,country
+O001,C0001,2024-05-10,Japan
+O002,C0002,2024-08-15,USA
+O003,C0001,2025-01-20,Japan
+O004,C0002,2025-06-05,USA
+O005,C0001,2026-02-12,Japan

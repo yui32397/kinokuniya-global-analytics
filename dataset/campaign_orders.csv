@@ -1,1 +1,4 @@
-
+ カラム         , 型       
+, , 
+campaign_id, VARCHAR
+order_id, VARCHAR

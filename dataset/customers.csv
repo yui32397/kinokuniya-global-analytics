@@ -1,4 +1,1 @@
-customer_id
-country
-customer_type
-signup_date
+customer_id,country,customer_type,signup_date,

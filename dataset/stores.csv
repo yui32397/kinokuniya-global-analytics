@@ -1,5 +1,5 @@
 カラム, 型, 内容
----, ---, ---
+, ,
 store_id, VARCHAR, 店舗ID
 country, VARCHAR, JP / US
 state_region, VARCHAR, 都道府県・州

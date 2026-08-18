@@ -1,1 +1,8 @@
-
+ カラム            , 型       , 内容                         
+ ,  ,   , 
+campaign_id, VARCHAR, キャンペーンID
+campaign_name, VARCHAR, キャンペーン名
+start_date, DATE, 開始日
+end_date, DATE, 終了日
+target_country, VARCHAR, 対象国
+campaign_type, VARCHAR, Discount / Email / App / Seasonal

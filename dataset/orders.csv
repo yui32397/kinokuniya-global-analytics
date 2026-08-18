@@ -1,5 +1,5 @@
- カラム          , 型       , 内容                    |
- ,  , ,
+ カラム          , 型       , 内容                 |
+   , ,
 order_id, VARCHAR, 注文ID
 customer_id, VARCHAR, 顧客ID
 order_date, DATE, 注文日

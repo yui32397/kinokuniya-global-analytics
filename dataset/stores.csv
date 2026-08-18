@@ -1,8 +1,9 @@
-カラム, 型, 内容
-, ,
-store_id, VARCHAR, 店舗ID
-country, VARCHAR, JP / US
-state_region, VARCHAR, 都道府県・州
-city, VARCHAR, 都市
-store_type, VARCHAR, Standard / Large
-opening_date, DATE, 開店日
+store_id,country,store_name,store_type,city
+JP001,Japan,Tokyo Main Store,Store,Tokyo
+JP002,Japan,Osaka Store,Store,Osaka
+JP003,Japan,Kyoto Store,Store,Kyoto
+JP004,Japan,Online Store,Online,Online
+US001,USA,New York Store,Store,New York
+US002,USA,Los Angeles Store,Store,Los Angeles
+US003,USA,San Francisco Store,Store,San Francisco
+US004,USA,Online Store,Online,Online

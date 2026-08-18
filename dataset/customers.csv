@@ -1,3 +1,8 @@
-customer_id,country,signup_date,birth_year,gender,membership_type,acquisition_channel
-C00001      , JP      , 2024-03-12  , 1994       , F      , Standard        , Organic
-C00002      , US      , 2023-11-05  , 1988       , M      , Premium         , Search
+ カラム                 , 型       
+customer_id, VARCHAR, 顧客ID
+country, VARCHAR, JP / US
+signup_date, DATE, 会員登録日
+birth_year, INT, 生年
+gender, VARCHAR, 性別
+membership_type, VARCHAR, Standard / Premium
+acquisition_channel, VARCHAR, Organic / Search / Social / Referral

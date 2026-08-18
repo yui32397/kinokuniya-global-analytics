@@ -1,5 +1,5 @@
  カラム, 型, 内容 
- ---, ---, --- 
+ , , 
  book_id, VARCHAR, 書籍ID 
  isbn, VARCHAR, ISBN 
  title, VARCHAR, 書籍タイトル 

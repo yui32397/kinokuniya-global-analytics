@@ -1,0 +1,21 @@
+product_id,country,category,subcategory,format,price_usd
+P0001,Japan,Fiction,Novel,Paperback,18.00
+P0002,Japan,Fiction,Literary Fiction,Hardcover,28.00
+P0003,Japan,Non-Fiction,Business,Paperback,22.00
+P0004,Japan,Non-Fiction,Self-Help,Paperback,20.00
+P0005,Japan,Children,Picture Book,Hardcover,16.00
+P0006,Japan,Academic,Social Science,Paperback,35.00
+P0007,Japan,Academic,Science,Hardcover,48.00
+P0008,Japan,Manga,Comic,Paperback,12.00
+P0009,Japan,Language,English Learning,Paperback,24.00
+P0010,Japan,Art,Photography,Hardcover,55.00
+P0011,USA,Fiction,Novel,Paperback,17.00
+P0012,USA,Fiction,Literary Fiction,Hardcover,29.00
+P0013,USA,Non-Fiction,Business,Paperback,23.00
+P0014,USA,Non-Fiction,Self-Help,Paperback,19.00
+P0015,USA,Children,Picture Book,Hardcover,15.00
+P0016,USA,Academic,Social Science,Paperback,37.00
+P0017,USA,Academic,Science,Hardcover,52.00
+P0018,USA,Manga,Comic,Paperback,14.00
+P0019,USA,Language,Japanese Learning,Paperback,26.00
+P0020,USA,Art,Photography,Hardcover,58.00

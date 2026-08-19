@@ -1,5 +1,5 @@
 order_id,customer_id,product_id,store_id,order_date,quantity,unit_price,currency,sales_channel
- , , , , , , , , , , , , , , , , ,
+ , , , , , , , , , , , , 
 O0001,JP0001,P0001,JP004,2025-01-15,1,18.00,USD,Online
 O0002,JP0002,P0003,JP004,2025-02-08,2,22.00,USD,Online
 O0003,JP0003,P0008,JP004,2025-03-12,3,12.00,USD,Online

@@ -1,1 +1,5 @@
-
+experiment_id,user_id,experiment_group,exposure_date,exposed,clicked,purchased,order_value
+AB001,JP0001,Control,2026-08-01,1,0,0,0
+AB001,JP0002,Treatment,2026-08-01,1,1,1,42.00
+AB001,JP0003,Control,2026-08-01,1,0,0,0
+AB001,JP0004,Treatment,2026-08-01,1,1,1,68.00
